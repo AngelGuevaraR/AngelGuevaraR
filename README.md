@@ -4,7 +4,7 @@ I'm Angel, a Software Development Engineering student and enjoy develop 👩🏻
 Esp/Eng 🇪🇸/🇺🇸
 
 
-## 📫 My contact:
+## 📫 My social networks:
 
 <div>
       <a href="https://www.linkedin.com/in/angel-alberto-guevara-ram%C3%ADrez-25251b308/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> 
