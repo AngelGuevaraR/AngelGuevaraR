@@ -1,14 +1,14 @@
-## Hi there 👋
+## Welcome 👋
 
-I am Angel, a Software Development Engineering student 👩🏻‍💻☁️
+I'm Angel, a Software Development Engineering student and enjoy develop 👩🏻‍💻☁️
+Esp/Eng 🇪🇸/🇺🇸
 
 
-## 📫 How to reach me:
+## 📫 My contact:
 
 <div>
-      <a href="#" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> 
-      <a href="#" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/></a> 
-      <a href="#" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" title="Gmail" alt="Gmail" width="40" height="40"/></a>
+      <a href="https://www.linkedin.com/in/angel-alberto-guevara-ram%C3%ADrez-25251b308/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> 
+      <a href="https://www.instagram.com/aangeel.py/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/></a> 
 </div>
 <br>
 
