@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-I'm Angel, a student of Software Development Engineering and enjoy develop 👩🏻‍💻☁️
+I'm Angel, a student of Software Development Engineering and enjoy develop 👩🏻‍💻🦖
 Esp/Eng 🇪🇸/🇺🇸
 
 - Developer.
