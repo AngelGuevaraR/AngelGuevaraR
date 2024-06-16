@@ -10,7 +10,7 @@ Esp/Eng 🇪🇸/🇺🇸
 ## 📫 My social networks:
 
 <div>
-      <a href="www.linkedin.com/in/angelguevarar" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> 
+      <a href="https://www.linkedin.com/in/angelguevarar" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> 
       <a href="https://www.instagram.com/aangeel.py/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" title="Instagram" alt="Instagram" width="40" height="40"/></a> 
 </div>
 <br>
