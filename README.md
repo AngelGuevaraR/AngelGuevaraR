@@ -18,7 +18,7 @@
 
 <img class = "fadeIn" src="img1.png" width="200" align= "right"/>
 
-### fun presentation ()
+### fun Presentation ()
 ### {
 #### Hi, my name is : **Angel**
 #### i'm : **19 years old**
