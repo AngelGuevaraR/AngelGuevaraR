@@ -1,22 +1,6 @@
 ![Header](BannerPerfil.png)
 
-<style>
-  .fadeIn {
-    opacity: 0;
-    animation: fadeIn 2s linear 2.8s forwards infinite;
-  }
-
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
-</style>
-
-<img class = "fadeIn" src="img1.svg" width="200" align= "right"/>
+<img class = "fadeIn" src="img1.png" width="200" align= "right"/>
 
 ### fun Presentation ()
 ### {
