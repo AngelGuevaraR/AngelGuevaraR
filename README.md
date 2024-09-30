@@ -1,6 +1,6 @@
 ![Header](BannerPerfil.png)
 
-<img class = "fadeIn" src="img1.png" width="200" align= "right"/>
+<img src="img1.png" width="200" align= "right"/>
 
 ### fun Presentation ()
 ### {
