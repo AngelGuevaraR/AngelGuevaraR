@@ -81,3 +81,5 @@
 ![AngelGuevaraR's Github stats](https://github-readme-stats.vercel.app/api?username=AngelGuevaraR&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGuevaraR&layout=compact&theme=dracula)
+
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" align= "right"/>
