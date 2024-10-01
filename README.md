@@ -82,4 +82,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGuevaraR&layout=compact&theme=dracula)
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" align= "right"/>
