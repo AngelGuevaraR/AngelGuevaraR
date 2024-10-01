@@ -82,3 +82,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGuevaraR&layout=compact&theme=dracula)
 
+<img src="https://komarev.com/ghpvc/?username=AngelGuevaraR&style=flat-square&color=blue" alt=""/>
+
