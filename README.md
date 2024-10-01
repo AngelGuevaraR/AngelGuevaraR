@@ -1,6 +1,6 @@
 ![Header](BannerPerfil.png)
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" align= "right"/>
+<img src="https://octodex.github.com/images/steroidtocat.png" width="200" align= "right"/>
 
 ### fun Presentation ()
 ### {
