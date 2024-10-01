@@ -75,7 +75,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AngelGuevaraR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div class= "fadeIn" id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
 </div>
 
@@ -83,5 +83,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGuevaraR&layout=compact&theme=dracula)
 
-<img src="https://komarev.com/ghpvc/?username=AngelGuevaraR&style=flat-square&color=blueviolet" alt="" align="center"/>
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AngelGuevaraR&style=flat-square&color=blueviolet" alt=""/>
+</div>
